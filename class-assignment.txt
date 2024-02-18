@@ -1,0 +1,28 @@
+Git Integration:
+
+ -Create at branche for assignment (e.g., class-assignment ) inside javascript-study repository
+ -Commit your JavaScript code files and assignment document to the class-assignment branch of repository.
+
+Introduction to JavaScript Classes:
+Theory: Explain the concept of classes in JavaScript and their role in object-oriented programming.
+Practical: Write a simple JavaScript class definition with properties and methods and instantiate an object from it.
+
+Constructor in Classes:
+Theory: Describe the constructor method in JavaScript classes and its purpose in initializing object instances.
+Practical: Create a JavaScript class with a constructor method that initializes object properties based on input parameters.
+
+Inheritance in JavaScript:
+Theory: Discuss how inheritance works in JavaScript and how it allows one class to inherit properties and methods from another.
+Practical: Implement inheritance between two JavaScript classes, where one class extends the functionality of the other.
+
+The Super Keyword:
+Theory: Explain the super keyword in JavaScript and its use in accessing and calling methods from a parent class within a subclass.
+Practical: Write a JavaScript subclass that overrides a method from its parent class and calls the parent method using the super keyword.
+
+Practice Set:
+Exercise: Solve a series of coding challenges focusing on creating classes, implementing inheritance, and using the super keyword effectively.
+Practical: Implement JavaScript classes and inheritance concepts learned in previous tasks to solve each practice problem.
+
+Error Handling:
+Theory: Discuss error handling techniques in JavaScript, including try-catch blocks, throwing custom errors, and handling asynchronous errors.
+Practical: Write JavaScript code that demonstrates error handling using try-catch blocks and custom error classes.
