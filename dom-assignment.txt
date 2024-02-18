@@ -1,0 +1,33 @@
+Create at branche for assignment (e.g., DOM-assignment ) inside javascript-study repository
+Commit your JavaScript code files and assignment document to the DOM-assignment branch of repository.
+
+Understanding the Window Object:
+Theory: Explain what the Window object represents in the browser environment and its significance in web development.
+Practical: Write JavaScript code that accesses and modifies properties of the Window object, such as window.location, window.innerWidth, and window.alert().
+
+Introduction to the DOM (Document Object Model):
+Theory: Define the DOM and its role as a programming interface for web documents.
+Practical: Use JavaScript to create a new HTML element dynamically and append it to the document using DOM manipulation techniques.
+
+DOM Manipulation:
+Theory: Discuss various methods for manipulating the DOM, such as getElementById, querySelector, createElement, appendChild, and addEventListener.
+Practical: Develop a JavaScript program that dynamically modifies the content and styling of existing HTML elements on a webpage using DOM manipulation methods.
+
+Inspecting the Window:
+Theory: Explain how to use browser developer tools to inspect the Window object and explore its properties and methods.
+Practical: Demonstrate how to access and manipulate the Window object properties and methods using browser developer tools.
+Working with Attributes:
+Theory: Discuss the concept of attributes in HTML elements and their role in DOM manipulation.
+Practical: Develop a JavaScript program that dynamically adds, removes, and modifies attributes of HTML elements based on user interactions or specific conditions.
+
+Styling Elements Dynamically:
+Theory: Explain how to dynamically change the style of HTML elements using JavaScript.
+Practical: Create a JavaScript function that changes the background color of a webpage element when a button is clicked, demonstrating dynamic styling with DOM manipulation.
+
+Inserting Elements into the DOM:
+Theory: Describe different methods for inserting new elements into the DOM, such as createElement, appendChild, insertBefore, and innerHTML.
+Practical: Write JavaScript code that dynamically creates and inserts new HTML elements, such as paragraphs, lists, or images, into a webpage based on user input.
+
+Deleting Elements from the DOM:
+Theory: Discuss techniques for removing elements from the DOM, including removeChild and parentNode.removeChild.
+Practical: Develop a JavaScript function that removes specific HTML elements from the DOM when a delete button associated with each element is clicked.
