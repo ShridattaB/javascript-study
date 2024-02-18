@@ -1,0 +1,16 @@
+Git Integration: - Create at branche for assignment (e.g., loop-assignment ) inside javascript-study repository - Commit your JavaScript code files and assignment document to the loop-assignment branch of repository.
+
+For Loop: 
+Theory: Explain the syntax and functionality of a for loop in JavaScript.
+Practical: Write a JavaScript program that uses a for loop to print the numbers from 1 to 10.
+
+While Loop:
+Theory: Describe how a while loop works and when it is appropriate to use. -Practical: Create a JavaScript function that uses a while loop to find the factorial of a given number.
+
+Do-While Loop:
+Theory: Discuss the characteristics of a do-while loop and how it differs from other loop structures.
+Practical: Implement a JavaScript script that prompts the user to guess a secret number between 1 and 10 using a do-while loop.
+
+For-of Loop:
+Theory: Explain the purpose of a for-of loop and its advantages over traditional for loops.
+Practical: Write a JavaScript function that takes an array of numbers as input and uses a for-of loop to calculate their sum
