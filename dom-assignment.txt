@@ -17,6 +17,7 @@ Inspecting the Window:
 Theory: Explain how to use browser developer tools to inspect the Window object and explore its properties and methods.
 Practical: Demonstrate how to access and manipulate the Window object properties and methods using browser developer tools.
 Working with Attributes:
+
 Theory: Discuss the concept of attributes in HTML elements and their role in DOM manipulation.
 Practical: Develop a JavaScript program that dynamically adds, removes, and modifies attributes of HTML elements based on user interactions or specific conditions.
 
