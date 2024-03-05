@@ -5,10 +5,10 @@
 //whenevert we click any button this is nothing but event (submission of any form)
 //the change in state of object is nothing but event
 
-let button1 = document.getElementById("btn1");
-button1.addEventListener("click", () => {
-  console.log("first btn is clicked");
-});
+// let button1 = document.getElementById("btn1");
+// button1.addEventListener("click", () => {
+//   console.log("first btn is clicked");
+// });
 
 const printMsg = () => {
   console.log("second btn is clicked from functin");

@@ -25,3 +25,12 @@ btn2.onclick=()=>{
     console.log('btn2 was clicked')
 
 }
+const h1Element=document.getElementById('heading')
+   
+const onTextChange=(value)=>{
+     h1Element.innerText=value
+    console.log(value)
+}
+
+
+ 
