@@ -1,0 +1,23 @@
+Create at branche for assignment (e.g., Event-assignment ) inside javascript-study repository
+Commit your JavaScript code files and assignment document to the Event-assignment branch of repository.
+
+
+Introduction to Events in JavaScript:
+Theory: Explain the concept of events in JavaScript and their significance in web development.
+Practical: Write a brief JavaScript code snippet that demonstrates an event being triggered on a webpage.
+
+Handling Click and Double Click Events:
+Theory: Discuss how to handle click and double click events in JavaScript.
+Practical: Develop a JavaScript function that performs different actions based on whether a single click or double click event is detected on a specific element.
+
+Understanding the Event Object:
+Theory: Describe the event object in JavaScript and its properties.
+Practical: Write JavaScript code that accesses and displays various properties of the event object when a specific event is triggered.
+
+Event Handlers and Removal:
+Theory: Explain the concept of event handlers and how they are used to handle events in JavaScript.
+Practical: Develop a JavaScript program that attaches event handlers to HTML elements and dynamically removes them based on certain conditions.
+
+Implementing Dark and Light Mode Toggle:
+Theory: Discuss the concept of dark and light mode toggles in web design.
+Practical: Create a button using HTML and CSS that toggles between dark and light modes when clicked, and implement the functionality using JavaScript.
