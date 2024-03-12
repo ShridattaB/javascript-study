@@ -41,7 +41,7 @@ function getdata1(dataid1){
     setTimeout(() => {
       console.log("data", dataid1);
       resolve("success")
-    }, 2000);
+    }, 2000);q
   })
 }
 
